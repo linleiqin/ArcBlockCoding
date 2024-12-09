@@ -1,0 +1,39 @@
+PODS:
+  - CocoaLumberjack (3.8.5):
+    - CocoaLumberjack/Core (= 3.8.5)
+  - CocoaLumberjack/Core (3.8.5)
+  - MJRefresh (3.7.9)
+  - SnapKit (5.0.1)
+  - SVGKit (3.1.1):
+    - CocoaLumberjack (~> 3.0)
+
+DEPENDENCIES:
+  - MJRefresh
+  - SnapKit (~> 5.0.0)
+  - SVGKit (from `https://github.com/SVGKit/SVGKit.git`, branch `3.x`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - MJRefresh
+    - SnapKit
+
+EXTERNAL SOURCES:
+  SVGKit:
+    :branch: 3.x
+    :git: https://github.com/SVGKit/SVGKit.git
+
+CHECKOUT OPTIONS:
+  SVGKit:
+    :commit: 1e49cd52e1738cd2635889571f7b2474ce0d1763
+    :git: https://github.com/SVGKit/SVGKit.git
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 6a459bc897d6d80bd1b8c78482ec7ad05dffc3f0
+  MJRefresh: ff9e531227924c84ce459338414550a05d2aea78
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVGKit: 3f02ad9c8227831e508e2e37ecc4005d2f0496a5
+
+PODFILE CHECKSUM: 7f4956668129726fb682cb005ee9a9f3fb7de061
+
+COCOAPODS: 1.15.2
