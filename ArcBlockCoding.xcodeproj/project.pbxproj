@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		9A5980BF2D068E25004B7B6F /* NetworkImageAttachment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5980BE2D068E25004B7B6F /* NetworkImageAttachment.swift */; };
-		9A5980C12D069F2B004B7B6F /* BlogAttributedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5980C02D069F2B004B7B6F /* BlogAttributedString.swift */; };
 		9A5980C32D06AB2E004B7B6F /* AttributedStringUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5980C22D06AB2E004B7B6F /* AttributedStringUtil.swift */; };
 		9A90D89D2D04322F001029C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A90D89C2D04322F001029C7 /* AppDelegate.swift */; };
 		9A90D89F2D04322F001029C7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A90D89E2D04322F001029C7 /* SceneDelegate.swift */; };
@@ -50,7 +49,6 @@
 
 /* Begin PBXFileReference section */
 		9A5980BE2D068E25004B7B6F /* NetworkImageAttachment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkImageAttachment.swift; sourceTree = "<group>"; };
-		9A5980C02D069F2B004B7B6F /* BlogAttributedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlogAttributedString.swift; sourceTree = "<group>"; };
 		9A5980C22D06AB2E004B7B6F /* AttributedStringUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttributedStringUtil.swift; sourceTree = "<group>"; };
 		9A90D8992D04322F001029C7 /* ArcBlockCoding.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArcBlockCoding.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A90D89C2D04322F001029C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -156,7 +154,6 @@
 				9A90D9162D043D3B001029C7 /* LayoutUtil.swift */,
 				9A90D9182D043E4B001029C7 /* ColorUtil.swift */,
 				9A5980BE2D068E25004B7B6F /* NetworkImageAttachment.swift */,
-				9A5980C02D069F2B004B7B6F /* BlogAttributedString.swift */,
 				9A5980C22D06AB2E004B7B6F /* AttributedStringUtil.swift */,
 			);
 			path = Utils;
@@ -440,7 +437,6 @@
 				9A90D8DF2D04379A001029C7 /* Blog.swift in Sources */,
 				9A90D9342D059E4C001029C7 /* Data+Ext.swift in Sources */,
 				9A90D8CC2D043325001029C7 /* ServiceBlog.swift in Sources */,
-				9A5980C12D069F2B004B7B6F /* BlogAttributedString.swift in Sources */,
 				9A90D9302D057CB0001029C7 /* BlogDetail.swift in Sources */,
 				9A90D8CF2D043325001029C7 /* ImageCache.swift in Sources */,
 				9A90D8CB2D043325001029C7 /* NetworkManager.swift in Sources */,
